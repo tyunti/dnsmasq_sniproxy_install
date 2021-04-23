@@ -17,12 +17,6 @@ level3.net
 llnwd.net
 edgecastcdn.net
 cloudfront.net
-netflix.com
-netflix.net
-nflximg.net
-nflxvideo.net
-nflxso.net
-nflxext.com
 hulu.com
 huluim.com
 hbonow.com
@@ -82,3 +76,4 @@ optusnet.com.au
 gamer.com.tw
 bahamut.com.tw
 hinet.net
+abema.io
